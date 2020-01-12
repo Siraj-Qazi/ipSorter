@@ -1,5 +1,5 @@
 # ipSorter
-## IP Address reading, sorting and writing to network alias and locality listing files
+## IP Address reading, sorting (on subnets) and writing to network alias and locality listing files
 
 ### Compilation and Usage
 
