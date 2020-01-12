@@ -1,0 +1,8 @@
+Hal Greenwald December 12, 2019
+CS222 Network Alias Listing
+
+baker	131.250.47.63
+green	111.22.5.66
+jet	131.250.95.21
+platte	111.22.3.44
+wabash	172.66.7.88
